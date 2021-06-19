@@ -1,5 +1,5 @@
 # Sesli Asistan Rıfkı
-Rıfkı bir sesli asistandır.
+Rıfkı bir sesli asistandır. (Gelişme Aşamasındadır.)
 
 Python 3.6 ile hazırlanmıştır. Windows 64 bit için Python 3.6 indirme linki:
 
